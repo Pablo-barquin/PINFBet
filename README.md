@@ -11,3 +11,6 @@ El proyecto tiene Login, sistema de apuestas, red de amigos y chat, además de t
 
 Destacar el logo de la empresa creada y la moneda virtual.
 
+<p align="center">
+<img src="https://github.com/Pablo-barquin/PINFBet/raw/main/Proyecto/images/moneda.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
